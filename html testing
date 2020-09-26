@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <title> Project Glc</title>
+  <head>
+    <h1>
+      Project Glc
+    </h1>
+  </head>
+  <body>
+    <strong>DISCLAIMER!</strong>
+    <p>
+      Everything said in this game is purely satire. This game was made to poke fun at stereotypes in the Gacha community. Whether its dialogue or narration, all of the things said in this game is not the views of the developers. <br> <br>
+      If you agree with our terms and service, click the <em>I understand</em> button to enter.
+    </p>
+    <button>
+    <strong>I understand</strong>
+    </button>
+  </body>
+</html>
